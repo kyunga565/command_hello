@@ -4,5 +4,6 @@ public class Hello{
 		system.out.println("hello java");	
 		system.out.println("hello java");	
 		system.out.println("Hello");}
+		system.out.println("Local Write");}
 }
 
